@@ -1,4 +1,4 @@
-echo cape-bone-iio > /sys/devices/bone_capemgr.*/slots
+#echo cape-bone-iio > /sys/devices/bone_capemgr.*/slots
 
 echo 7 > /sys/class/gpio/export
 echo out > /sys/class/gpio/gpio7/direction

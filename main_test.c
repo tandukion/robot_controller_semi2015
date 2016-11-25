@@ -304,6 +304,7 @@ int main() {
 	
 
 	// ============= File Writing =========
+	/*
 	FILE *fp;
 	char str[100];
 
@@ -329,7 +330,7 @@ int main() {
 
 	fclose(fp);
 
-
+	*/
 
 	return 0;
 }
